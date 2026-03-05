@@ -17,3 +17,7 @@ align-items: flex-start;
 .flex {
     display: flex;
 }
+.red {
+padding-right: 80px;
+background-color: brown;
+}
