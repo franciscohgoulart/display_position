@@ -1,0 +1,19 @@
+body {
+display: flex;
+align-items: flex-start;
+
+}
+
+.blue {
+    
+    padding: 100px;
+    background-color: blue;
+}
+.yo {
+    padding: 20px;
+    margin: 10px;
+    background-color: yellow;
+}
+.flex {
+    display: flex;
+}
