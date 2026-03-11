@@ -25,3 +25,6 @@ background-color: brown;
 padding-bottom: 80px;
 background-color: green;
 }
+.flexdirection {
+    flex-direction: row;
+}
